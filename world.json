@@ -1,5 +1,5 @@
 {
-  "title": "The Conjugated Realms",
+  "title": "On The Distant Lands",
   "id": "the-conjugated-realms",
   "system": "dnd5e",
   "coreVersion": "10.291",
@@ -16,12 +16,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-backgrounds.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-backgrounds",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -30,12 +25,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-classes.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-classes",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -44,12 +34,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-subclasses.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-subclasses",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -58,12 +43,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-class-features.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-class-features",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -72,12 +52,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-feats.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-feats",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -86,12 +61,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-items.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-items",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Actor",
@@ -100,12 +70,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-monsters.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-monsters",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Actor",
@@ -114,12 +79,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-vehicles.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-vehicles",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -128,12 +88,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-races.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-races",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -142,12 +97,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-racial-traits.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-racial-traits",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -156,12 +106,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-spells.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-spells",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "RollTable",
@@ -170,12 +115,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-tables.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-tables",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Item",
@@ -184,12 +124,7 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-override.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world",
-      "id": "world.ddb-the-conjugated-realms-ddb-override",
-      "packageType": "world",
-      "packageName": "the-conjugated-realms",
-      "index": []
+      "flags": {}
     },
     {
       "type": "Adventure",
@@ -198,8 +133,9 @@
       "path": "packs/ddb-the-conjugated-realms-ddb-adventures.db",
       "system": "dnd5e",
       "private": false,
-      "flags": {},
-      "package": "world"
+      "flags": {}
     }
-  ]
+  ],
+  "description": "<p>Приключение для ДнДе5 в сеттинге морского приключения. Вас ждут морские сражения и фантастические события!</p>",
+  "background": "worlds/the-conjugated-realms/scenes/IMAGES/Sleek-Schooner-Ixalan-MtG-Art.jpg"
 }
